@@ -1,0 +1,7 @@
+{
+  "name": "M.G. Engineering Company Limited",
+  "description": "Professional engineering consultancy firm in Yemen providing innovative solutions and integrated designs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
